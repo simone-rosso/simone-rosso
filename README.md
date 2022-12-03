@@ -56,6 +56,6 @@ let personal = {
 | French        | Elementary proficiency             |
 
 
-### My Constributions
+<!--### My Constributions
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg) -->
