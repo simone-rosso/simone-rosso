@@ -54,3 +54,8 @@ let personal = {
 | Italian       | Native language                    |
 | Catalan       | Professional working proficiency   |
 | French        | Elementary proficiency             |
+
+
+### My Constributions
+
+![](./profile-3d-contrib/profile-green-animate.svg)
