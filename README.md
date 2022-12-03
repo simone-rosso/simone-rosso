@@ -1,17 +1,26 @@
-### Hello world 👋 it's me, Simone
+# Hello world 👋 it's me, Simone
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+```js
+let professional = {
+  pronouns: "He" | "Him",
+  profession: "Full-stack software developer 🖥",
+  sideProjects: "Working on develop an AI assistant for software engineers 🔨",
+  learning: "Currently learning fundamentals of web 3.0 and blockchain 🎓"
+}
 
-- 🖥 Full-stack software developer
-- 🔨 I’m currently working on develop an AI assistant for software engineers
-- 🎓 I’m currently learning web 3.0 and blockchain
-- 🔋 Searching to collaborate with an ONG for on open sources projects to stop climate change
-- 💬 Ask me about Chemestry, History or Astrology
-- 😄 Pronouns: He / Him
-- 🤿 Hobbies: Rescue diver looking to become divemaster
-- 👨‍🔬 Fun fact: I'm a chemist playing with software development since 2016
-  
+let personal = {
+  askMeAbout: ["Chemestry", "History", "Astrology"],
+  sports: "Rescue diver looking to become divemaster 🤿",
+  hobbies: "Drums player since 2005 🥁",
+  funFact: "I'm a chemist playing with software development since 2016 🔬"
+ }
+ 
+ let aboutMe = {professional, personal}
+```
+
+<!-- contributions🔋: "Open sources projects to stop climate change and adopt green energies" -->
   
   
 ## 📫 How to reach me:
@@ -26,7 +35,7 @@
 
 - JavaScript
 - TypeScript
-- React.
+- React
 - Next.js
 - HTML, CSS
 - Node.js
