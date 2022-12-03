@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+
 - 🔨 I’m currently developing an AI assistant for software engineers
+- 🖥 Full-stack software developer
 - 🎓 I’m currently learning web 3.0 and blockchain
 - 🔋 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎 I would like to collaborate on open sources climate change projects
 - 💬 Ask me about Chemestry, History or Astrology
