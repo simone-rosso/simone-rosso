@@ -55,7 +55,6 @@ let personal = {
 | Catalan       | Professional working proficiency   |
 | French        | Elementary proficiency             |
 
-
 <!--### My Constributions
-
+To-do add 3d activity
 ![](./profile-3d-contrib/profile-green-animate.svg) -->
