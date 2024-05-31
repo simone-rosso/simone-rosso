@@ -4,20 +4,21 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 ```js
 let professional = {
-  pronouns: "He" | "Him",
+  pronouns: "He/Him",
   profession: "Full-stack software developer 🖥",
-  sideProjects: "Working on develop an AI assistant for software engineers 🔨",
-  learning: "Currently learning fundamentals of web 3.0 and blockchain 🎓"
+  sideProjects: "Working on developing an AI assistant for software engineers 🔨",
+  learning: "Currently learning the fundamentals of web 3.0 and blockchain 🎓"
 }
 
 let personal = {
-  askMeAbout: ["Chemestry", "History", "Astrology"],
-  sports: "Rescue diver looking to become divemaster 🤿",
-  hobbies: "Drums player since 2005 🥁",
-  funFact: "I'm a chemist playing with software development since 2016 🔬"
- }
- 
- let aboutMe = {professional, personal}
+  askMeAbout: ["Chemistry", "History", "Astrology"],
+  sports: "Rescue diver looking to become a divemaster 🤿",
+  hobbies: "Drummer since 2005 🥁",
+  funFact: "I'm a chemist who has been playing with software development since 2016 🔬"
+}
+
+let aboutMe = { professional, personal }
+
 ```
 
 <!-- contributions🔋: "Open sources projects to stop climate change and adopt green energies" -->
