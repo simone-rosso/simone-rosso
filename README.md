@@ -37,9 +37,9 @@ let aboutMe = { professional, personal }
 - JavaScript
 - TypeScript
 - React
-- Next.js
-- HTML, CSS
+- Vue
 - Node.js
+- HTML, CSS
 - Google Cloud Platform
 - MongoDb
 - WordPress
