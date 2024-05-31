@@ -12,7 +12,7 @@ let professional = {
 
 let personal = {
   askMeAbout: ["Chemistry", "History", "Astrology"],
-  sports: "Rescue diver looking to become a divemaster 🤿",
+  sports: "Rescue diver looking to become a divemaster 🤿 and marathon runner 🏃",
   hobbies: "Drummer since 2005 🥁",
   funFact: "I'm a chemist who has been playing with software development since 2016 🔬"
 }
